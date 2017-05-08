@@ -1,5 +1,5 @@
 *.class
-.nbactions.xml
+nbactions.xml
 
 
 # Mobile Tools for Java (J2ME)
