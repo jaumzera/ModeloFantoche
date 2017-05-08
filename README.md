@@ -1,2 +1,2 @@
 # ModeloFantoche
-Modelo do Fantoche do mestradod sobre redes neurais.
+Modelo do Fantoche do mestrado sobre redes neurais.
