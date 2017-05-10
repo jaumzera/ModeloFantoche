@@ -29,7 +29,7 @@ public class Main {
             for(Classe classe : especie.getClasses()) {
                 System.out.println("\tClasses: " + classe.getNome());
                 for(Imagem imagem : classe.getImagens()) {
-                    System.out.println("\tImagem: " + imagem.getArquivo().getName());
+                    System.out.println("\t\tImagem: " + imagem.getArquivo().getName());
                 }
             }
         }
